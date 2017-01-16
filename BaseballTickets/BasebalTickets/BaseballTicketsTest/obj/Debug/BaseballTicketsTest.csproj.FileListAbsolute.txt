@@ -1,0 +1,8 @@
+G:\8145-SDT\BaseballTickets\BasebalTickets\BaseballTicketsTest\bin\Debug\BaseballTicketsTest.dll
+G:\8145-SDT\BaseballTickets\BasebalTickets\BaseballTicketsTest\bin\Debug\BaseballTicketsTest.pdb
+G:\8145-SDT\BaseballTickets\BasebalTickets\BaseballTicketsTest\bin\Debug\BasebalTickets.exe
+G:\8145-SDT\BaseballTickets\BasebalTickets\BaseballTicketsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\8145-SDT\BaseballTickets\BasebalTickets\BaseballTicketsTest\bin\Debug\BasebalTickets.pdb
+G:\8145-SDT\BaseballTickets\BasebalTickets\BaseballTicketsTest\obj\Debug\BaseballTicketsTest.csprojResolveAssemblyReference.cache
+G:\8145-SDT\BaseballTickets\BasebalTickets\BaseballTicketsTest\obj\Debug\BaseballTicketsTest.dll
+G:\8145-SDT\BaseballTickets\BasebalTickets\BaseballTicketsTest\obj\Debug\BaseballTicketsTest.pdb

@@ -1,0 +1,14 @@
+C:\Development\CSharp\RestaurantBill\RestaurantBill\BillCalculatorTest\bin\Debug\BillCalculatorTest.dll
+C:\Development\CSharp\RestaurantBill\RestaurantBill\BillCalculatorTest\bin\Debug\BillCalculatorTest.pdb
+C:\Development\CSharp\RestaurantBill\RestaurantBill\BillCalculatorTest\bin\Debug\BillCalculator.exe
+C:\Development\CSharp\RestaurantBill\RestaurantBill\BillCalculatorTest\bin\Debug\BillCalculator.pdb
+C:\Development\CSharp\RestaurantBill\RestaurantBill\BillCalculatorTest\obj\Debug\BillCalculatorTest.csprojResolveAssemblyReference.cache
+C:\Development\CSharp\RestaurantBill\RestaurantBill\BillCalculatorTest\obj\Debug\BillCalculatorTest.dll
+C:\Development\CSharp\RestaurantBill\RestaurantBill\BillCalculatorTest\obj\Debug\BillCalculatorTest.pdb
+G:\8145-SDT\RestaurantBill\BillCalculatorTest\bin\Debug\BillCalculatorTest.dll
+G:\8145-SDT\RestaurantBill\BillCalculatorTest\bin\Debug\BillCalculatorTest.pdb
+G:\8145-SDT\RestaurantBill\BillCalculatorTest\bin\Debug\BillCalculator.exe
+G:\8145-SDT\RestaurantBill\BillCalculatorTest\bin\Debug\BillCalculator.pdb
+G:\8145-SDT\RestaurantBill\BillCalculatorTest\obj\Debug\BillCalculatorTest.csprojResolveAssemblyReference.cache
+G:\8145-SDT\RestaurantBill\BillCalculatorTest\obj\Debug\BillCalculatorTest.dll
+G:\8145-SDT\RestaurantBill\BillCalculatorTest\obj\Debug\BillCalculatorTest.pdb
