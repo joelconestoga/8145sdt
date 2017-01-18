@@ -1,0 +1,9 @@
+C:\Development\git\8145sdt\Facebook\Facebook\Facebook\bin\Debug\Facebook.exe.config
+C:\Development\git\8145sdt\Facebook\Facebook\Facebook\bin\Debug\Facebook.exe
+C:\Development\git\8145sdt\Facebook\Facebook\Facebook\bin\Debug\Facebook.pdb
+C:\Development\git\8145sdt\Facebook\Facebook\Facebook\obj\Debug\Facebook.csprojResolveAssemblyReference.cache
+C:\Development\git\8145sdt\Facebook\Facebook\Facebook\obj\Debug\Facebook.exe
+C:\Development\git\8145sdt\Facebook\Facebook\Facebook\obj\Debug\Facebook.pdb
+C:\Development\git\8145sdt\Facebook\Facebook\bin\Debug\Facebook.exe.config
+C:\Development\git\8145sdt\Facebook\Facebook\obj\Debug\Facebook.exe
+C:\Development\git\8145sdt\Facebook\Facebook\obj\Debug\Facebook.pdb
