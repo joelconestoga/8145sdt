@@ -43,5 +43,22 @@ namespace Facebook
         {
             return value % 2 != 0;
         }
+
+        internal static void writeFacebookIcon()
+        {
+            writeALineWith('*', "");
+            writeALineWith('*', "    ****                               **                            **    **");
+            writeALineWith('*', "   *****                               **                            **   ** ");
+            writeALineWith('*', "  ***                                  **                            **  **  ");
+            writeALineWith('*', "*******   ******    ******    ******   *******    ******    ******   ** **   ");
+            writeALineWith('*', "*******  ********  ********  ********  ********  ********  **    **  ****    ");
+            writeALineWith('*', "  ***          **  **    **  **    **  **    **  **    **  **    **  ****    ");
+            writeALineWith('*', "  ***     *******  **        ********  **    **  **    **  **    **  *****   ");
+            writeALineWith('*', "  ***    **    **  **        **        **    **  **    **  **    **  **  **  ");
+            writeALineWith('*', "  ***    **    **  **    **  **    **  **    **  **    **  **    **  **   ** ");
+            writeALineWith('*', "  ***     ******    ******    ******   *******    ******    ******   **    **");
+            writeALineWith('*', "");
+
+        }
     }
 }

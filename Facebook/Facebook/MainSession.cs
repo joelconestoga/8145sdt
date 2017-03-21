@@ -56,7 +56,8 @@ namespace Facebook
         public void presentHome()
         {
             Console.Clear();
-            Writer.writeHeaderWithTitle("FACEBOOK");
+            //Writer.writeHeaderWithTitle("FACEBOOK");
+            Writer.writeFacebookIcon();
             Writer.writeALineWith('*', "Welcome " + user.Login);
         }
 
