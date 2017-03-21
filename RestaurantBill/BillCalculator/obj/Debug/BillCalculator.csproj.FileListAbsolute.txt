@@ -10,3 +10,6 @@ G:\8145-SDT\RestaurantBill\BillCalculator\obj\Debug\BillCalculator.pdb
 G:\8145-SDT\RestaurantBill\BillCalculator\bin\Debug\BillCalculator.exe
 G:\8145-SDT\RestaurantBill\BillCalculator\bin\Debug\BillCalculator.pdb
 G:\8145-SDT\RestaurantBill\BillCalculator\obj\Debug\BillCalculator.csprojResolveAssemblyReference.cache
+C:\Development\git\8145sdt\RestaurantBill\BillCalculator\bin\Debug\BillCalculator.exe.config
+C:\Development\git\8145sdt\RestaurantBill\BillCalculator\obj\Debug\BillCalculator.exe
+C:\Development\git\8145sdt\RestaurantBill\BillCalculator\obj\Debug\BillCalculator.pdb
