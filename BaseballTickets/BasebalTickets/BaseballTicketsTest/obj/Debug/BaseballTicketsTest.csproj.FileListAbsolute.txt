@@ -6,3 +6,11 @@ G:\8145-SDT\BaseballTickets\BasebalTickets\BaseballTicketsTest\bin\Debug\Basebal
 G:\8145-SDT\BaseballTickets\BasebalTickets\BaseballTicketsTest\obj\Debug\BaseballTicketsTest.csprojResolveAssemblyReference.cache
 G:\8145-SDT\BaseballTickets\BasebalTickets\BaseballTicketsTest\obj\Debug\BaseballTicketsTest.dll
 G:\8145-SDT\BaseballTickets\BasebalTickets\BaseballTicketsTest\obj\Debug\BaseballTicketsTest.pdb
+C:\Development\git\8145sdt\BaseballTickets\BasebalTickets\BaseballTicketsTest\bin\Debug\BaseballTicketsTest.dll
+C:\Development\git\8145sdt\BaseballTickets\BasebalTickets\BaseballTicketsTest\bin\Debug\BaseballTicketsTest.pdb
+C:\Development\git\8145sdt\BaseballTickets\BasebalTickets\BaseballTicketsTest\bin\Debug\BasebalTickets.exe
+C:\Development\git\8145sdt\BaseballTickets\BasebalTickets\BaseballTicketsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Development\git\8145sdt\BaseballTickets\BasebalTickets\BaseballTicketsTest\bin\Debug\BasebalTickets.pdb
+C:\Development\git\8145sdt\BaseballTickets\BasebalTickets\BaseballTicketsTest\obj\Debug\BaseballTicketsTest.csprojResolveAssemblyReference.cache
+C:\Development\git\8145sdt\BaseballTickets\BasebalTickets\BaseballTicketsTest\obj\Debug\BaseballTicketsTest.dll
+C:\Development\git\8145sdt\BaseballTickets\BasebalTickets\BaseballTicketsTest\obj\Debug\BaseballTicketsTest.pdb

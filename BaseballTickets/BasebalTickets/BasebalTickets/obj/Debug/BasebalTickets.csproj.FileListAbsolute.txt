@@ -4,3 +4,6 @@ G:\8145-SDT\BaseballTickets\BasebalTickets\BasebalTickets\bin\Debug\BasebalTicke
 G:\8145-SDT\BaseballTickets\BasebalTickets\BasebalTickets\obj\Debug\BasebalTickets.csprojResolveAssemblyReference.cache
 G:\8145-SDT\BaseballTickets\BasebalTickets\BasebalTickets\obj\Debug\BasebalTickets.exe
 G:\8145-SDT\BaseballTickets\BasebalTickets\BasebalTickets\obj\Debug\BasebalTickets.pdb
+C:\Development\git\8145sdt\BaseballTickets\BasebalTickets\BasebalTickets\bin\Debug\BasebalTickets.exe.config
+C:\Development\git\8145sdt\BaseballTickets\BasebalTickets\BasebalTickets\obj\Debug\BasebalTickets.exe
+C:\Development\git\8145sdt\BaseballTickets\BasebalTickets\BasebalTickets\obj\Debug\BasebalTickets.pdb
